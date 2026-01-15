@@ -51,12 +51,7 @@ These programs are designed as per academic syllabus and help in understanding c
 
 ---
 
-## ▶️ How to Run
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/os-practical-programs.git
-
-   
+  
 ## 👤 Author
 - **Name:** LOKESH SAHU
 - **Course:** MCA
